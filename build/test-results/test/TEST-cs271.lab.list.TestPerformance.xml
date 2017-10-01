@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs271.lab.list.TestPerformance" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-10-01T19:43:14" hostname="ywang83-homework-5344633" time="0.529">
+  <properties/>
+  <testcase name="testArrayListAccess" classname="cs271.lab.list.TestPerformance" time="0.016"/>
+  <testcase name="testLinkedListAddRemove" classname="cs271.lab.list.TestPerformance" time="0.309"/>
+  <testcase name="testLinkedListAccess" classname="cs271.lab.list.TestPerformance" time="0.055"/>
+  <testcase name="testArrayListAddRemove" classname="cs271.lab.list.TestPerformance" time="0.147"/>
+  <system-out><![CDATA[Size = 100
+testArrayListAccess Running time : 15 ms
+Size = 100
+testLinkedListAddRemove Running time : 309 ms
+Size = 100
+testLinkedListAccess Running time : 55 ms
+Size = 100
+testArrayListAddRemove Running time : 147 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

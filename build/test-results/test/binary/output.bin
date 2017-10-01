@@ -1,0 +1,8 @@
+Size = 100
+)testArrayListAccess Running time : 15 ms
+Size = 100
+.testLinkedListAddRemove Running time : 309 ms
+Size = 100
+*testLinkedListAccess Running time : 55 ms
+Size = 100
+-testArrayListAddRemove Running time : 147 ms
