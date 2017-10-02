@@ -26,5 +26,5 @@ This method is to delete element of integer number 5 in the list, the one with `
 `[3, 77, 4, 77, 5, 77, 6]` becomes `[3, 77, 4, 77, 77, 6]`.
 
 ## TestPerformance Questions
-[My Google Sheet document](https://docs.google.com/spreadsheets/d/15iLQ7I2MwR-ArpZwzql9efGmgKMOe9XNoixdfz3pTLc/edit?usp=sharing) to record running times for SIZE = 10, 100, 1000, 10000
+[My Google Sheet document](https://docs.google.com/spreadsheets/d/15iLQ7I2MwR-ArpZwzql9efGmgKMOe9XNoixdfz3pTLc/edit?usp=sharing) to record running time for SIZE = 10, 100, 1000, 10000.
  
