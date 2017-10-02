@@ -18,8 +18,12 @@ Some of the tests with ArrayList perform better than those with LinkedList, such
 ### `list.remove(5);` // what does this method do?
 This method is to delete element with `index 5`, that is 77 in the list.
 
+`[3, 77, 4, 77, 5, 77, 6]` becomes `[3, 77, 4, 77, 5, 6]`.
+
 ### `list.remove(Integer.valueOf(5));` // what does this one do?
 This method is to delete element of integer number 5 in the list, the one with `index 4`.
+
+`[3, 77, 4, 77, 5, 77, 6]` becomes `[3, 77, 4, 77, 77, 6]`.
 
 ## TestPerformance Questions
 [My Google Sheet document](https://docs.google.com/spreadsheets/d/15iLQ7I2MwR-ArpZwzql9efGmgKMOe9XNoixdfz3pTLc/edit?usp=sharing) to record running times for SIZE = 10, 100, 1000, 10000
